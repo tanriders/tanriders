@@ -1,5 +1,5 @@
 <p align="center">
-![Banner](https://github.com/tanriders/tanriders/blob/main/header.png)
+ <img src="https://github.com/tanriders/tanriders/blob/main/header.png" />
 </p>
 
 
