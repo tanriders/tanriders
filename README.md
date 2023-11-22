@@ -9,7 +9,7 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 </div>
 
 
-#### Programming Languages
+### Programming Languages
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
@@ -18,15 +18,10 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<br>
-
-#### Tools and technologies
+### Tools and technologies
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
-
-<br>
-
-#### Data analysis techniques
+### Data analysis techniques
 - **Deep learning** 
 - **Machine Learning**
 - **Artificial Intelligence** 
@@ -36,9 +31,7 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 - **Data visualization** 
 - **Statistics** 
 
-<br>
-<be>
-
 ### 8 Data Science Applications Domains
-- **Data Science for Marketing** <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanriders&theme=dark&hide_border=true&repo=Flight_Price_Preiction)](https://github.com/tanriders/Flight_Price_Preiction) 
+* #### Data Science for Marketing
+  **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preictionl)**
+   
