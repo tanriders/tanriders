@@ -36,5 +36,5 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 <be>
 
 ### 8 Data Science Applications Domains
-- **Data Science for Marketing** 
+- **Data Science for Marketing** <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanriders&theme=dark&hide_border=true&repo=Flight_Price_Preiction)](https://github.com/tanriders/Flight_Price_Preiction) 
