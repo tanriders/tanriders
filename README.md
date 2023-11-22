@@ -20,6 +20,16 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 
 ### Tools and technologies
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="40" src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"></code>
+
+<code><img height="40" src="https://repository-images.githubusercontent.com/562779208/721b128d-af04-4933-8d77-56c17418bf1f"></code> 
+<code><img height="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg"></code> 
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1085px-Microsoft_Excel_2013-2019_logo.svg.png"></code> 
 
 ### Data analysis techniques
 - **Deep learning** 
