@@ -34,4 +34,6 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 ### 8 Data Science Applications Domains
 * #### Data Science for Marketing
   **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preictionl)**
+  
+  **[Customer Segmentation using K-Means Clustering](https://github.com/tanriders/customer-segmentation-k-means)**
    
