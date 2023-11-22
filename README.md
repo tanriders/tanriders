@@ -31,26 +31,6 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1085px-Microsoft_Excel_2013-2019_logo.svg.png"></code> 
 
-### Data analysis techniques
-- **Deep learning** 
-- **Machine Learning**
-- **Artificial Intelligence** 
-- **Computer Visions** 
-- **Image Processing**
-- **Data analysis** 
-- **Data visualization** 
-- **Statistics** 
-
-### Data Science Applications Domains
-* #### Data Science for Marketing
-  **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preiction/blob/main/DS_Marketing_Flight_Price_Prediction__LinearRegression.ipynb)**
-  
-  **[Mall Customer Segmentation using K-Means Clustering](https://github.com/tanriders/customer-segmentation-k-means/blob/main/DS_Marketing_customer_segmentation_k_means.ipynb)**
-  
-  **[Automobile Customer Segmentation using K-Means Clustering](https://github.com/tanriders/Automobile-Customer-Segmentation/blob/main/DS_Marketing_Automobile_Customer_Segmentation.ipynb)**
-  
-  **[Movie Recommendation System Using Cosine Similarity](https://github.com/tanriders/Recommend_movies/blob/main/DS_Marketing_Recommend_movies.ipynb)**
-
 
   
    
