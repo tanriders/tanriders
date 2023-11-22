@@ -43,7 +43,7 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 - **Data visualization** 
 - **Statistics** 
 
-### Data Science Applications Domains
+### Data Science Applications
 * #### Data Science for Marketing
   **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preiction/blob/main/DS_Marketing_Flight_Price_Prediction__LinearRegression.ipynb)**
   
