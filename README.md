@@ -49,5 +49,9 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 
   **[Movie Recommendation System Using Cosine Similarity](https://github.com/tanriders/Recommend_movies/blob/main/DS_Marketing_Recommend_movies.ipynb)**
 
+* #### Data Science for Finance
+  **[Fraud detection](https://github.com/tanriders/Fraud_Detection_AutoEncoder/blob/main/DS_Finance_Fraud_Detection_AutoEncoder.ipynb)**
+  
+
   
    
