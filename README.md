@@ -51,27 +51,6 @@ I'm a passionate data scientist who is interested in exploring data and extracti
   
   **[Movie Recommendation System Using Cosine Similarity](https://github.com/tanriders/Recommend_movies/blob/main/DS_Marketing_Recommend_movies.ipynb)**
 
-* #### Data Science for Finance
-  **[Fraud detection](https://github.com/tanriders/Fraud_Detection_AutoEncoder/blob/main/DS_Finance_Fraud_Detection_AutoEncoder.ipynb)**
-  
-* #### Data Science for Transportation
-  **[Traveling-Salesman-Problem](https://github.com/tanriders/Traveling-Salesman-Problem/blob/main/DS_Transportation_TSP.ipynb)**
-  
-  **[Vehicle Routing Problem-VRP](https://github.com/tanriders/Vehicle-Routing-Problem-VRP-/blob/main/DS_Transportation_VRP.ipynb)**
-
-  * #### Data Science for Medical
-  **[Brain Tumor MRI image Classification using GoogLeNet](https://github.com/tanriders/Medical_Brain-Tumor-MRI-Classification-GoogLeNet/blob/main/DS_Medical_Brain_Tumor_MRI_Classification_GoogLeNet.ipynb)**
-
-
-* #### Data Science for Construction
-  **[Building Energy Efficiency Prediction models](https://github.com/tanriders/Construction_Building-Energy-Prediction-models/blob/main/DS_Construction_Building_Energy_Prediction_models.ipynb)**
-  
-* #### Data Science for Agriculture
-  **[Crop Yield Prediction](https://github.com/tanriders/Agriculture-Crop-Yield-Prediction/blob/main/DS_Agriculture_Crop_Yield_Prediction.ipynb)**
-
-* #### Data Science for Social Good and Environment
-  **[Berkeley Earth_PM2.5 Forecasting In Bangkok](https://github.com/tanriders/Berkeley-Earth_PM2.5-Forecasting-In-Bangkok/blob/main/Berkeley_Earth_PM2_5_Forecasting_In_Bangkok.ipynb)**
-  **[PM2.5-Forecasting-In-Bangkok](https://github.com/tanriders/PM2.5-Forecasting-In-Bangkok/blob/main/Air4thai_PM2_5_Forecasting_In_Bangkok.ipynb)**
 
   
    
