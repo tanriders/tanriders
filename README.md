@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/tanriders/tanriders/assets/30671829/840f381a-88dd-4d74-b807-fbccefb3c932)<p align="center">
  <img src="https://github.com/tanriders/tanriders/blob/main/header.png" />
 </p>
 <h3 align="center"><i>Data Scientist</i></h3>
@@ -41,17 +41,37 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 - **Data visualization** 
 - **Statistics** 
 
-### 8 Data Science Applications Domains
+### Data Science Applications Domains
 * #### Data Science for Marketing
   **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preiction/blob/main/DS_Marketing_Flight_Price_Prediction__LinearRegression.ipynb)**
   
-  **[Customer Segmentation using K-Means Clustering](https://github.com/tanriders/customer-segmentation-k-means/blob/main/DS_Marketing_customer_segmentation_k_means.ipynb)**
-
+  **[Mall Customer Segmentation using K-Means Clustering](https://github.com/tanriders/customer-segmentation-k-means/blob/main/DS_Marketing_customer_segmentation_k_means.ipynb)**
+  
+  **[Automobile Customer Segmentation using K-Means Clustering](https://github.com/tanriders/Automobile-Customer-Segmentation/blob/main/DS_Marketing_Automobile_Customer_Segmentation.ipynb)**
+  
   **[Movie Recommendation System Using Cosine Similarity](https://github.com/tanriders/Recommend_movies/blob/main/DS_Marketing_Recommend_movies.ipynb)**
 
 * #### Data Science for Finance
   **[Fraud detection](https://github.com/tanriders/Fraud_Detection_AutoEncoder/blob/main/DS_Finance_Fraud_Detection_AutoEncoder.ipynb)**
   
+* #### Data Science for Transportation
+  **[Traveling-Salesman-Problem](https://github.com/tanriders/Traveling-Salesman-Problem/blob/main/DS_Transportation_TSP.ipynb)**
+  
+  **[Vehicle Routing Problem-VRP](https://github.com/tanriders/Vehicle-Routing-Problem-VRP-/blob/main/DS_Transportation_VRP.ipynb)**
+
+  * #### Data Science for Medical
+  **[Brain Tumor MRI image Classification using GoogLeNet](https://github.com/tanriders/Medical_Brain-Tumor-MRI-Classification-GoogLeNet/blob/main/DS_Medical_Brain_Tumor_MRI_Classification_GoogLeNet.ipynb)**
+
+
+* #### Data Science for Construction
+  **[Building Energy Efficiency Prediction models](https://github.com/tanriders/Construction_Building-Energy-Prediction-models/blob/main/DS_Construction_Building_Energy_Prediction_models.ipynb)**
+  
+* #### Data Science for Agriculture
+  **[Crop Yield Prediction](https://github.com/tanriders/Agriculture-Crop-Yield-Prediction/blob/main/DS_Agriculture_Crop_Yield_Prediction.ipynb)**
+
+* #### Data Science for Social Good and Environment
+  **[Berkeley Earth_PM2.5 Forecasting In Bangkok](https://github.com/tanriders/Berkeley-Earth_PM2.5-Forecasting-In-Bangkok/blob/main/Berkeley_Earth_PM2_5_Forecasting_In_Bangkok.ipynb)**
+  **[PM2.5-Forecasting-In-Bangkok](https://github.com/tanriders/PM2.5-Forecasting-In-Bangkok/blob/main/Air4thai_PM2_5_Forecasting_In_Bangkok.ipynb)**
 
   
    
