@@ -33,15 +33,21 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1085px-Microsoft_Excel_2013-2019_logo.svg.png"></code> 
 
-### Data analysis techniques
-- **Deep learning** 
-- **Machine Learning**
-- **Artificial Intelligence** 
-- **Computer Visions** 
-- **Image Processing**
-- **Data analysis** 
-- **Data visualization** 
-- **Statistics** 
+### Data Science techniques
+- <code><i>**Deep learning**</i><img height="40" src="https://lh3.googleusercontent.com/RQdRdulwId_C3SXF_pXFO6S1QQv1g1pIiPEJNHsssHgMnPkQ1Lcd0Ogn2PyekBC3beDVdJGCuUs9FyqYyry-abnMswWcUd_X4g=s0"></code>
+
+- <code><i>**Machine Learning**</i><img height="40" src="https://lh3.googleusercontent.com/3C_0D6sZ_Uf-4UtDP3R0FdKVLHEoN5tY3SfNm4PSvgZ8aw9jwsxAKBmnlpmzNfqfHyqe30fUksV4pcTxRq3AjMUmBcI6bVrSeRiZ=s0"></code>
+
+- <code><i>**Artificial Intelligence**</i><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjssNx4cuoUOd5Imynud7PwM0MPkZCABRBYg&usqp=CAU"></code>
+
+
+- <code><i>**Computer Visions**</i><img height="40" src="https://lh3.googleusercontent.com/uhjiohtB0y_HseRFifsSpM5Q2tWKImLFwRDfPcmpbGFAqrx3D-EBC_GTeous3rltMvgB4KJe717dfVF2mq22ibP03ORQi5AbzQ=s0"></code>
+
+
+- <code><i>**Data visualization**</i><img height="40" src="https://lh3.googleusercontent.com/6myJhtA7DucjUQ04i9PEk7dBPYwBcRoetb1NuWqOkns5x7WZMb05a1HZVLP6HiQ-Ni84mz4T6AsEtCndve06zINKx52kRCo8hx0=s0"></code>
+
+- <code><i>**Statistics**</i><img height="40" src="https://lh3.googleusercontent.com/RfA_h860RboUjZexKk-dKc8h_I4US-lLQYEGPeMSpvxSonfnsJcX9ozRMjdtnneKYuyQ3c0yQ89EhSjE05K2aOLA5AZKW8p17w=s0"></code>
+
 
 ### Data Science Applications
 * #### Data Science for Marketing
