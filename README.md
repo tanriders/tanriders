@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/567c28f4-36df-43c8-9db3-dfbd434d5194)![image](https://github.com/user-attachments/assets/ef01a092-6e97-4504-888b-d9ad7313b2d7)![image](https://github.com/user-attachments/assets/976546b1-8b40-4509-9001-4c2e6cabb63e)<p align="center">
  <img src="https://github.com/tanriders/tanriders/blob/main/header.png" />
 </p>
 <h3 align="center"><i>Data Scientist</i></h3>
@@ -48,7 +48,17 @@ I'm a passionate data scientist who is interested in exploring data and extracti
 
 - <code><i>**Statistics**</i><img height="40" src="https://lh3.googleusercontent.com/RfA_h860RboUjZexKk-dKc8h_I4US-lLQYEGPeMSpvxSonfnsJcX9ozRMjdtnneKYuyQ3c0yQ89EhSjE05K2aOLA5AZKW8p17w=s0"></code>
 
+### Key Assignment
+* #### AI Detect Slurry Uncoated Using Machine Vision Techniques M12
+* #### SHERA Academy
+* #### Machine Learning for Vibration Forecasting and Analysis
+* #### AI-Driven Process Control for Thickness Optimization (M18)
+* #### SherAIsa - GenAI Analyst Factory
+* #### AI-Driven Supply Chain Optimization
 
+
+
+ 
 ### Data Science Applications
 * #### Data Science for Marketing
   **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preiction/blob/main/DS_Marketing_Flight_Price_Prediction__LinearRegression.ipynb)**
