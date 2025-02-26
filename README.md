@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/567c28f4-36df-43c8-9db3-dfbd434d5194)![image](https://github.com/user-attachments/assets/ef01a092-6e97-4504-888b-d9ad7313b2d7)![image](https://github.com/user-attachments/assets/976546b1-8b40-4509-9001-4c2e6cabb63e)<p align="center">
+<p align="center">
  <img src="https://github.com/tanriders/tanriders/blob/main/header.png" />
 </p>
 <h3 align="center"><i>Data Scientist</i></h3>
