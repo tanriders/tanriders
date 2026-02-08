@@ -1,93 +1,237 @@
+
 <p align="center">
  <img src="https://github.com/tanriders/tanriders/blob/main/header.png" />
 </p>
-<h3 align="center"><i>Data Scientist</i></h3>
+
+<h2 align="center">AI Solution Architect | Industrial AI | Data Scientist</h2>
 
 <div align="center">
-
-I'm a passionate data scientist who is interested in exploring data and extracting knowledge insights. I have data analysis, machine learning, and artificial intelligence skills and expertise. I am a research assistant who applies data science to analyze data and build models to support environmental research and the country's sustainable development.
+Applied AI for Manufacturing, Supply Chain, Quality, and Operations.<br/>
+Background in Data Science, Machine Learning, Computer Vision, and Sustainability Research.
 </div>
 
+---
 
+## 🧠 About Me
 
+I am a passionate AI specialist and data scientist interested in exploring data and extracting knowledge insights.
 
-### Programming Languages
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+I design and deploy AI systems for manufacturing operations including predictive maintenance, supply planning, quality intelligence, computer vision, and generative AI knowledge automation.
 
-### Tools and technologies
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/pytorch/pytorch.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/224672533a7f836ad6bf142e4dee61217cfc100e/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="40" src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"></code>
+Experience spans:
+- Industrial AI deployment
+- Machine learning modeling
+- Computer vision
+- Generative AI & Copilot agents
+- Sustainability and environmental analytics
 
-<code><img height="40" src="https://repository-images.githubusercontent.com/562779208/721b128d-af04-4933-8d77-56c17418bf1f"></code> 
-<code><img height="40" src="https://www.svgrepo.com/show/354012/looker-icon.svg"></code> 
+---
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1085px-Microsoft_Excel_2013-2019_logo.svg.png"></code> 
+## 🏭 Industrial AI Architecture (Conceptual)
 
-### Data Science techniques
-- <code><i>**Deep learning**</i><img height="40" src="https://lh3.googleusercontent.com/RQdRdulwId_C3SXF_pXFO6S1QQv1g1pIiPEJNHsssHgMnPkQ1Lcd0Ogn2PyekBC3beDVdJGCuUs9FyqYyry-abnMswWcUd_X4g=s0"></code>
+Conceptual reference architecture for industrial AI deployment.  
+No confidential systems, parameters, or datasets are included.
 
-- <code><i>**Machine Learning**</i><img height="40" src="https://lh3.googleusercontent.com/3C_0D6sZ_Uf-4UtDP3R0FdKVLHEoN5tY3SfNm4PSvgZ8aw9jwsxAKBmnlpmzNfqfHyqe30fUksV4pcTxRq3AjMUmBcI6bVrSeRiZ=s0"></code>
+```mermaid
+flowchart TB
 
-- <code><i>**Artificial Intelligence**</i><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjssNx4cuoUOd5Imynud7PwM0MPkZCABRBYg&usqp=CAU"></code>
+U[Operations and Business Users]
 
+subgraph AG[AI Agents Layer - Copilot Studio]
+  direction TB
+  A1[Quality Copilot]
+  A2[Supply Planning Copilot]
+  A3[Maintenance Assistant]
+  A4[SOP and Knowledge Copilot]
+  A5[Executive Insight Copilot]
+end
 
-- <code><i>**Computer Visions**</i><img height="40" src="https://lh3.googleusercontent.com/uhjiohtB0y_HseRFifsSpM5Q2tWKImLFwRDfPcmpbGFAqrx3D-EBC_GTeous3rltMvgB4KJe717dfVF2mq22ibP03ORQi5AbzQ=s0"></code>
+subgraph AI[AI Intelligence Layer]
+  direction TB
+  ML[Machine Learning]
+  CV[Computer Vision]
+  OPT[Optimization]
+  GEN[Generative AI]
+end
 
+subgraph D[Data Layer]
+  direction TB
+  RT[Sensors and PLC Data]
+  ENT[Planning and Enterprise Data]
+  DOC[Documents and Knowledge]
+end
 
-- <code><i>**Data visualization**</i><img height="40" src="https://lh3.googleusercontent.com/6myJhtA7DucjUQ04i9PEk7dBPYwBcRoetb1NuWqOkns5x7WZMb05a1HZVLP6HiQ-Ni84mz4T6AsEtCndve06zINKx52kRCo8hx0=s0"></code>
+subgraph C[Decision and Control]
+  direction TB
+  AL[Alerts]
+  REC[Recommendations]
+  SEMI[Semi Automation]
+  AUTO[Automation Pilot]
+end
 
-- <code><i>**Statistics**</i><img height="40" src="https://lh3.googleusercontent.com/RfA_h860RboUjZexKk-dKc8h_I4US-lLQYEGPeMSpvxSonfnsJcX9ozRMjdtnneKYuyQ3c0yQ89EhSjE05K2aOLA5AZKW8p17w=s0"></code>
+U --> AG
+AG --> AI
+AI --> D
+AI --> C
 
-### Key Assignment
-* #### AI Detect Slurry Uncoated Using Machine Vision Techniques M12
-* #### SHERA Academy
-* #### Machine Learning for Vibration Forecasting and Analysis
-* #### AI-Driven Process Control for Thickness Optimization (M18)
-* #### SherAIsa - GenAI Analyst Factory
-* #### AI-Driven Supply Chain Optimization
+RT --> ML
+RT --> CV
+ENT --> ML
+ENT --> OPT
+DOC --> GEN
 
+ML --> AL
+CV --> AL
+OPT --> REC
+REC --> SEMI
+SEMI --> AUTO
+```
 
+---
 
- 
-### Data Science Applications
-* #### Data Science for Marketing
-  **[Flight Price Preiction](https://github.com/tanriders/Flight_Price_Preiction/blob/main/DS_Marketing_Flight_Price_Prediction__LinearRegression.ipynb)**
-  
-  **[Mall Customer Segmentation using K-Means Clustering](https://github.com/tanriders/customer-segmentation-k-means/blob/main/DS_Marketing_customer_segmentation_k_means.ipynb)**
-  
-  **[Automobile Customer Segmentation using K-Means Clustering](https://github.com/tanriders/Automobile-Customer-Segmentation/blob/main/DS_Marketing_Automobile_Customer_Segmentation.ipynb)**
-  
-  **[Movie Recommendation System Using Cosine Similarity](https://github.com/tanriders/Recommend_movies/blob/main/DS_Marketing_Recommend_movies.ipynb)**
+## 🔥 Featured Industrial AI Projects
 
-* #### Data Science for Finance
-  **[Fraud detection](https://github.com/tanriders/Fraud_Detection_AutoEncoder/blob/main/DS_Finance_Fraud_Detection_AutoEncoder.ipynb)**
-  
-* #### Data Science for Transportation
-  **[Traveling-Salesman-Problem](https://github.com/tanriders/Traveling-Salesman-Problem/blob/main/DS_Transportation_TSP.ipynb)**
-  
-  **[Vehicle Routing Problem-VRP](https://github.com/tanriders/Vehicle-Routing-Problem-VRP-/blob/main/DS_Transportation_VRP.ipynb)**
+### Predictive Maintenance
+- Vibration analytics & anomaly detection
+- LSTM forecasting for equipment behavior
 
-* #### Data Science for Medical
-  **[Brain Tumor MRI image Classification using GoogLeNet](https://github.com/tanriders/Medical_Brain-Tumor-MRI-Classification-GoogLeNet/blob/main/DS_Medical_Brain_Tumor_MRI_Classification_GoogLeNet.ipynb)**
+### Supply Chain & Planning AI
+- ATP (Available-to-Promise)
+- Backorder intelligence
+- Inventory visibility & demand–supply analysis
 
-* #### Data Science for Construction
-  **[Building Energy Efficiency Prediction models](https://github.com/tanriders/Construction_Building-Energy-Prediction-models/blob/main/DS_Construction_Building_Energy_Prediction_models.ipynb)**
-  
-* #### Data Science for Agriculture
-  **[Crop Yield Prediction](https://github.com/tanriders/Agriculture-Crop-Yield-Prediction/blob/main/DS_Agriculture_Crop_Yield_Prediction.ipynb)**
+### Quality & Process AI
+- Property prediction models
+- QC Smart Management
+- Thickness control optimization
 
-* #### Data Science for Social Good and Environment
-  **[Berkeley Earth_PM2.5 Forecasting In Bangkok](https://github.com/tanriders/Berkeley-Earth_PM2.5-Forecasting-In-Bangkok/blob/main/Berkeley_Earth_PM2_5_Forecasting_In_Bangkok.ipynb)**
-  
-  **[PM2.5-Forecasting-In-Bangkok](https://github.com/tanriders/PM2.5-Forecasting-In-Bangkok/blob/main/Air4thai_PM2_5_Forecasting_In_Bangkok.ipynb)**
-   
+### Vision AI & OCR
+- Slurry inspection
+- Tag recognition automation
+
+### Generative AI & Knowledge
+- SOP generation platform
+- Training automation
+- Insight reporting
+
+---
+
+## 🏭 Industrial AI Skills
+
+- Predictive Maintenance (Vibration Analytics, LSTM Forecasting)
+- Machine Learning–Based Anomaly Detection
+- AI-Driven Supply Planning & Inventory Intelligence
+- Quality Intelligence & Property Prediction
+- Vision AI Inspection
+- OCR for Industrial Tag Recognition
+- AI-Based Process Parameter Optimization
+- Autonomous / Semi-Automatic Control (Pilot)
+- Generative AI for SOP & Training Automation
+- Operational Insight Generation
+
+---
+
+## 🧰 Tools & Technologies
+
+### Industrial AI & Machine Learning
+- Python
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Time-series modeling (LSTM)
+- Machine learning anomaly detection
+
+### Computer Vision
+- OpenCV
+- Image processing pipelines
+- OCR systems
+
+### Generative AI & Agents
+- Copilot Studio
+- Ollama (LLM deployment)
+- Prompt engineering
+- Knowledge-based AI systems
+
+### Data & Integration
+- SQL / MSSQL
+- Data pipelines
+- ETL workflows
+- Operational data integration
+- API integration
+
+### MLOps & Deployment
+- Model deployment in production
+- AI workflow automation
+- Monitoring & feedback loops
+- Git version control
+
+### Industrial & Operational Systems
+- Sensor data integration
+- Process monitoring systems
+- Planning & supply data workflows
+
+### AI Capabilities
+- Predictive maintenance
+- Supply chain intelligence
+- Quality prediction
+- Process optimization
+- Autonomous control (pilot)
+
+---
+
+## 💻 Programming Languages
+
+- Python
+- SQL
+- MATLAB
+- C++
+- PHP
+- JavaScript
+
+---
+
+## 🤖 AI & Data Science Techniques
+
+- Deep Learning
+- Machine Learning
+- Artificial Intelligence
+- Computer Vision
+- Time-Series Forecasting
+- Optimization
+- Data Visualization
+- Statistics
+
+---
+
+## 📚 Previous Data Science Applications
+
+### Marketing
+https://github.com/tanriders/Flight_Price_Preiction  
+https://github.com/tanriders/customer-segmentation-k-means  
+https://github.com/tanriders/Automobile-Customer-Segmentation  
+https://github.com/tanriders/Recommend_movies  
+
+### Finance
+https://github.com/tanriders/Fraud_Detection_AutoEncoder  
+
+### Transportation
+https://github.com/tanriders/Traveling-Salesman-Problem  
+https://github.com/tanriders/Vehicle-Routing-Problem-VRP-  
+
+### Medical
+https://github.com/tanriders/Medical_Brain-Tumor-MRI-Classification-GoogLeNet  
+
+### Construction
+https://github.com/tanriders/Construction_Building-Energy-Prediction-models  
+
+### Agriculture
+https://github.com/tanriders/Agriculture-Crop-Yield-Prediction  
+
+### Environment
+https://github.com/tanriders/Berkeley-Earth_PM2.5-Forecasting-In-Bangkok  
+https://github.com/tanriders/PM2.5-Forecasting-In-Bangkok  
+
+---
+
+## 📫 Contact
+GitHub: https://github.com/tanriders
