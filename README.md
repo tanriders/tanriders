@@ -235,3 +235,5 @@ https://github.com/tanriders/PM2.5-Forecasting-In-Bangkok
 
 ## 📫 Contact
 GitHub: https://github.com/tanriders
+LinkedIn: https://www.linkedin.com/in/saowalak-thamnawat-6666241b4/
+Email: tanthamnawat@gmail.com
