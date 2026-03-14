@@ -112,7 +112,7 @@ SEMI --> AUTO
 ### Generative AI & Knowledge
 - SOP generation platform
 - Training automation
-- TheTakeAI-Engineering Series https://tanriders.github.io/thetakeai/
+- The Take (AI) AI for Real Work (knowledge platform) https://tanriders.github.io/thetakeai/ 
 - Insight reporting
 
 ---
