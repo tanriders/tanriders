@@ -111,7 +111,7 @@ SEMI --> AUTO
 
 ### Generative AI & Knowledge
 - SOP generation platform
-- Training automation
+- Training automation https://tanriders.github.io/thetakeai/
 - Insight reporting
 
 ---
