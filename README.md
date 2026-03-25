@@ -96,7 +96,8 @@ SEMI --> AUTO
 - LSTM forecasting for equipment behavior
 
 ### Supply Chain & Planning AI
-- ATP (Available-to-Promise)
+- ATP (Available-to-Promise) Agent
+- StockPrompt (AI Chat for Sales, CSR, Planning)
 - Backorder intelligence
 - Inventory visibility & demand–supply analysis
 
@@ -107,10 +108,11 @@ SEMI --> AUTO
 
 ### Vision AI & OCR
 - Slurry inspection
-- Tag recognition automation
+- Tag recognition automation (OCR Tag)
 
 ### Generative AI & Knowledge
 - SOP generation platform
+- Transform Spare Parts Management with AI Agents: EasySparePart AI (AI spare parts search, Recommendation, and Withdraw Spare Part)
 - Training automation
 - The Take (AI) AI for Real Work (knowledge platform) https://tanriders.github.io/thetakeai/ 
 - Insight reporting
